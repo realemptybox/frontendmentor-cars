@@ -28,7 +28,7 @@ I could use any tools I like to help me complete the challenge.
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./cars-component.png)
 
 
 
