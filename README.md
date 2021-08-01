@@ -34,7 +34,7 @@ I could use any tools I like to help me complete the challenge.
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/a-card-component-using-html5-and-css3-CWxeS1UFQ)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/3-card-component-using-html5-and-css3-B4yxVKc0g)
 - Live Site URL: [Netlify](https://objective-saha-4c42d8.netlify.app/)
 
 **NOTE: The preview on frontendmentor could be false or not correctly displayed. **
