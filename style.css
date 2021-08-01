@@ -1,0 +1,171 @@
+body {
+  background-color: hsl(0, 0%, 95%);
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: "Lexend Deca", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  color: hsl(0, 0%, 95%);
+  font-family: "Big Shoulders Display", cursive;
+  margin: 0;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 200px;
+}
+
+.sedanc {
+  display: block;
+  border: 2px hsl(31, 77%, 52%) solid;
+  background-color: hsl(31, 77%, 52%);
+  width: 300px;
+  height: 500px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.sedanc h1 {
+  text-transform: uppercase;
+  padding-left: 50px;
+  padding-top: 40px;
+  font-size: 40px;
+}
+
+.sedanc button {
+  cursor: pointer;
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(31, 77%, 52%);
+  font-family: "Lexend Deca", sans-serif;
+  border: 1px hsl(31, 77%, 52%) solid;
+  border-radius: 30px;
+  font-size: 15px;
+  padding: 15px 30px;
+  margin-top: 90px;
+  margin-left: 40px;
+}
+
+.sedanc button:hover {
+  background-color: hsl(31, 77%, 52%);
+  border-color: hsl(0, 0%, 95%);
+  color: hsl(0, 0%, 95%);
+}
+
+.sedanc img {
+  display: block;
+  padding-top: 70px;
+  padding-left: 45px;
+}
+
+.sedanc p {
+  font-size: 15px;
+  width: 195px;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.suvsc {
+  display: block;
+  border: 2px hsl(184, 100%, 22%) solid;
+  background-color: hsl(184, 100%, 22%);
+  width: 300px;
+  height: 500px;
+  margin-top: -504px;
+  margin-left: 300px;
+}
+
+.suvsc h1 {
+  text-transform: uppercase;
+  padding-left: 50px;
+  padding-top: 40px;
+  font-size: 40px;
+}
+
+.suvsc p {
+  font-size: 15px;
+  width: 210px;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.suvsc img {
+  display: block;
+  padding-top: 70px;
+  padding-left: 45px;
+}
+
+.suvsc button {
+  cursor: pointer;
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(184, 100%, 22%);
+  font-family: "Lexend Deca", sans-serif;
+  border: 1px hsl(184, 100%, 22%) solid;
+  border-radius: 30px;
+  font-size: 15px;
+  padding: 15px 30px;
+  margin-top: 90px;
+  margin-left: 40px;
+}
+
+.suvsc button:hover {
+  background-color: hsl(184, 100%, 22%);
+  border-color: hsl(0, 0%, 95%);
+  color: hsl(0, 0%, 95%);
+}
+
+.luxc {
+  display: block;
+  border: 2px hsl(179, 100%, 13%) solid;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-color: hsl(179, 100%, 13%);
+  width: 300px;
+  height: 500px;
+  margin-top: -504px;
+  margin-left: 600px;
+}
+
+.luxc h1 {
+  text-transform: uppercase;
+  padding-left: 50px;
+  padding-top: 40px;
+  font-size: 40px;
+}
+
+.luxc p {
+  font-size: 15px;
+  width: 210px;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.luxc img {
+  display: block;
+  padding-top: 70px;
+  padding-left: 45px;
+}
+
+.luxc button {
+  cursor: pointer;
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(179, 100%, 13%);
+  font-family: "Lexend Deca", sans-serif;
+  border: 1px hsl(179, 100%, 13%) solid;
+  border-radius: 30px;
+  font-size: 15px;
+  padding: 15px 30px;
+  margin-top: 90px;
+  margin-left: 40px;
+}
+
+.luxc button:hover {
+  background-color: hsl(179, 100%, 13%);
+  border-color: hsl(0, 0%, 95%);
+  color: hsl(0, 0%, 95%);
+}
